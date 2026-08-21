@@ -1,0 +1,42 @@
+.aa{
+    height: 30px;
+    border: 1px solid whitesmoke;
+    background-color:lightblue;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    text-align: center;
+    
+}
+.bb{
+   display: flex;
+   justify-content: center;
+    padding: 100px;
+}
+.ww{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    text-align: center;
+    gap: 10px;
+    margin-right: 10px;
+    text-decoration-line: none;
+    
+}
+.gg{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    text-align: center;
+    margin-left: 10px;
+}
+.pi{
+    height:30px;
+    border: 1px solid whitesmoke;
+    background-color:lightskyblue;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    font-size: 10px;
+}

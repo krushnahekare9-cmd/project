@@ -1,0 +1,30 @@
+.cx{
+    display: flex;
+    height: 250px;
+    border: 1px solid whitesmoke;
+    background-color: cadetblue;
+    gap: 250px;
+}
+.vx{
+    display: flex;
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    margin-right:20px ;
+}
+.nj{
+    margin-left: 20px;
+}
+button{
+    margin-top: 10px;
+    color: aliceblue;
+    background-color: blue;
+}
+.vx:hover{
+    box-shadow: 10px 20px 30px;
+}
+button:hover{
+    box-shadow: 10px 20px 30px;
+    color: black;
+    background-color:rgb(247, 36, 8);
+}
